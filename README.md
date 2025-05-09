@@ -20,7 +20,7 @@
 
 🌐 Connect with me:
 - LinkedIn: *abdulwahedbinhamed*
-- TryHackMe: 
+- TryHackMe: *abdulwahedbinhamed*
 
 ---
 
