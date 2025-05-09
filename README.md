@@ -19,8 +19,9 @@
 - Creating a basic home cyber lab for testing
 
 🌐 Connect with me:
-- LinkedIn: *abdulwahedbinhamed*
-- TryHackMe: *abdulwahedbinhamed*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-wahed-bin-hamed-551119365)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/abdulwahedbinhamed)
+
 
 ---
 
